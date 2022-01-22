@@ -1,7 +1,7 @@
 {
-  "name": "shanbot",
+  "name": "phoenixbot",
   "version": "0.0.2",
-  "description": "Only termux",
+  "description": "welcome to this adventure/ bienvenido/a a esta aventura",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Shan",
+  "author": "fénix",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",
